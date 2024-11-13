@@ -16,6 +16,7 @@ I'm a technology enthusiast with a strong background in development, cybersecuri
 ## 🖥 Experience
 
 I handle the configuration and management of servers and virtualized infrastructures, working with technologies such as **Squid** and **Pure-FTPd** for network administration and connection management. I'm experienced with complex environments and proficient in configuring tools to ensure seamless integration between systems, like setting up iSCSI targets on HP Primera storage for VMware ESXi.
+
 I am currently developing a new web platform using **Qwik**, focusing on high performance and modern user experiences.
 
 ## 🌍 Open-Source Contributions
