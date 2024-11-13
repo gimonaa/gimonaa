@@ -10,7 +10,7 @@ I'm a technology enthusiast with a strong background in development, cybersecuri
 - **DBMS**: PostgreSQL, MySQL, Oracle.
 - **Operating Systems**: Windows, Linux, MacOS, VMware.
 - **Monitoring Tools**: Nagios, MRTG.
-- **Cloud**: Oracle Cloud.
+- **Cloud**: Vercel, Oracle Cloud.
 - **Applications**: Microsoft Office (Word, Excel, PowerPoint), Photoshop, QGIS, WordPress.
 
 ## 🖥 Experience
