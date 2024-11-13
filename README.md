@@ -28,6 +28,7 @@ I am always seeking growth opportunities, eager to acquire new skills and share 
 ## 📫 Contact
 
 - **LinkedIn**: [linkedin.com/in/alessandro-gimona-837516114](https://www.linkedin.com/in/alessandro-gimona-837516114)
-- **GitHub**: [github.com/username](https://github.com/username)
+- **GitHub**: [github.com/gimonaa](https://github.com/gimonaa)
+- **GitLab**: [gitlab.com/gimonaa](https://gitlab.com/gimonaa)
 
 Thank you for visiting my profile!
